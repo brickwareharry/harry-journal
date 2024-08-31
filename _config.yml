@@ -7,7 +7,7 @@ search_enabled: true
 nav:
   - title: "Home"
     url: /
-  - title: "What is ConfigureServices?"
-    url: /docs/WhatIsConfigureServices/
-  - title: "What is dotnet task?"
-    url: /docs/WhatIsDotnetTask/
+  - title: "What is ConfigureServices? (2024.08.31)"
+    url: /docs/2024.08.31-WhatIsConfigureServices/
+  - title: "What is dotnet task? (2024.08.28)"
+    url: /docs/2024.08.28-WhatIsDotnetTask/
