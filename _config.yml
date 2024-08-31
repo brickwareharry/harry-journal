@@ -9,3 +9,5 @@ nav:
     url: /
   - title: "What is ConfigureServices?"
     url: /docs/WhatIsConfigureServices/
+  - title: "What is dotnet task?"
+    url: /docs/WhatIsDotnetTask/
