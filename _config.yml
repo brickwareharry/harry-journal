@@ -1,19 +1,11 @@
-# _config.yml
-
-# Use the Just the Docs theme from its GitHub repository
 remote_theme: pmarsceill/just-the-docs
 
-# Site settings
 title: "Harry's Journal"
 description: "A collection of my journal entries"
 search_enabled: true
 
-# Navbar configuration
 nav:
   - title: "Home"
     url: /
-  - title: "Journal"
-    url: /journal/
-    children:
-      - title: "What is ConfigureServices?"
-        url: /docs/WhatIsConfigureServices/
+  - title: "What is ConfigureServices?"
+    url: /docs/WhatIsConfigureServices/
