@@ -7,6 +7,12 @@ search_enabled: true
 nav:
   - title: "Home"
     url: /
+  - title: "Injected Object Lifetimes (2024.09.24)"
+    url: /docs/2024.09.24-InjectedObjectLifetimes/
+  - title: "whoami vs hostname in Linux (2024.09.14)"
+    url: /docs/2024.09.14-WhoamiVsHostnameLinux/
+  - title: "Check user info in Linux? (2024.09.13)"
+    url: /docs/2024.09.13-CheckUserInformationLinuxBash/
   - title: "What is ConfigureServices? (2024.08.31)"
     url: /docs/2024.08.31-WhatIsConfigureServices/
   - title: "What is dotnet task? (2024.08.28)"
